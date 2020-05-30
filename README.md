@@ -1,8 +1,9 @@
 # Simple Kanban Board
-Drag and Drop API using HTML, CSS, Javascript in VanillaJS
+Drag and Drop API using HTML, CSS, Javascript in VanillaJS.
 
 <div align=center>
   <img src='./src/assets/kanban.png' />
+  <p>Available in simplekanbanboard.netlify.app</p>
 </div>
 
 ## :information_source: How To Use
